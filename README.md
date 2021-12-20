@@ -46,10 +46,15 @@
 ### Lessons Learned
 
   **1. Reducer -** Function that takes current state and action (type of action + data) as an argument and return updated state.
+  
   **1. Action -** Object that has type of action (basically name) and data to be passed to a reducer function.
+  
   **1. Store -** Give us different methods to fetch or modify current state
+  
       **-getState() -** Returns current state
+      
       **-dispatch() -** call reducer function by passing action
+      
       **-subscribe() -** listen to state change
 
 ### Built With
