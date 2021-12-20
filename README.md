@@ -51,11 +51,11 @@
   
   **3. Store -** Give us different methods to fetch or modify current state
   
-      -**getState() -** Returns current state
+      **getState() -** Returns current state
       
-      -**dispatch() -** call reducer function by passing action
+      **dispatch() -** call reducer function by passing action
       
-      -**subscribe() -** listen to state change
+      **subscribe() -** listen to state change
 
 ### Built With
 
