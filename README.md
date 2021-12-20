@@ -61,7 +61,6 @@
 
 * [React.js](https://reactjs.org/)
 * [Redux.js](https://reduxjs.org/)
-* [Bootstrap](https://getbootstrap.com)
 
 
 <!-- GETTING STARTED -->
